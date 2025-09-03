@@ -17,7 +17,7 @@ This repository contains code and data for training and running a YOLO-based hot
 
 2. **Train the model:**
 
-Run the training script in training/hotdog_detection_training.py.
+Run the training script in `training/hotdog_detection_training.py`
 
 3. **Transfer weights:**
 
