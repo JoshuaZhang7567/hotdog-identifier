@@ -1,0 +1,5 @@
+path: /Users/joshua_zhang/Coding Projects/UofT/aUToronto/training/data #change this to your project root directory
+train: images/train
+val: images/val
+nc: 1
+names: ["hotdog"]
