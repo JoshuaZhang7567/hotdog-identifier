@@ -1,6 +1,6 @@
 # Hotdog Detection with YOLO
 
-This repository contains code and data for training and running a YOLO-based hotdog detector using the [Ultralytics YOLO](https://docs.ultralytics.com/) library.
+This repository contains code and data for training and running a YOLO-based hotdog detector using the [Ultralytics YOLO](https://docs.ultralytics.com/) library. This project came from an exercise provided by aUToronto: https://docs.google.com/document/d/1LOAFpgdQ3vUs3Wie1m9g8ndhfikjZxD7HOQEDznBSJQ
 
 ## Folder Structure
 
